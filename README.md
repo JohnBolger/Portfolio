@@ -1,5 +1,3 @@
-# John Bolger's Project Portfolio
-
 # [Fantasy Football Manager Rating](https://github.com/JohnBolger/FFMR)
 - Proposed a forecasting model for my fantasy football league that combines two Elo ratings with a weighted average and regresses to the mean at the beginning of each season.
 - Used the [sleeper wrapper package](https://github.com/dtsong/sleeper-api-wrapper) to retrieve my league's data from sleeper's API
