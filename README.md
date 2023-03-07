@@ -1,4 +1,4 @@
-# [Fantasy Football Manager Rating](https://github.com/JohnBolger/FFMR)
+# Project One: [Fantasy Football Manager Rating](https://github.com/JohnBolger/FFMR)
 - Proposed a forecasting model for my fantasy football league that combines two Elo ratings with a weighted average and regresses to the mean at the beginning of each season.
 - Used the [sleeper wrapper package](https://github.com/dtsong/sleeper-api-wrapper) to retrieve my league's data from sleeper's API
 - Optimized the model for a combination of percentage of games predicted total and percentage of games predicted in the 2022 season using Scipy's curve fit function and analyzing scatterplots.
@@ -6,7 +6,7 @@
 
 ![](images/Cal_plot.PNG)
 
-# [Chipotle Opimizer](https://github.com/JohnBolger/chipotlemacros)
+#  Project Two: [Chipotle Opimizer](https://github.com/JohnBolger/chipotlemacros)
 - Downloaded a dataset with the full nutrition facts for Chipotle Mexican Grills in the United States from [Kaggle](https://www.kaggle.com/datasets/brandonqilin/chipotle-usa-menu-nutrition-dataset).
 - Utilized PulP's optimization functions to minimize the number of calories in an order based on a set of constraints.
 - Performed matrix operations with NumPy to calculate the nutrition facts for the optimized order.
