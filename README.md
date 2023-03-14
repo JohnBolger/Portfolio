@@ -1,9 +1,9 @@
-Project 1: [Sleeper Draft Analysis]
+#  Project 1: [Sleeper Draft Analysis]
 - Retrieved fantasy football draft data from Sleeper API.
 - Merged draft data with with stats from the season and exported dataframe as csv.
 - Connected data to Tableau and created an interactive dashboard.
 
-![](images/Draft_Analysis.PNG)
+![](images/Draft_Analysis.png)
 
 #  Project 2: [Chipotle Opimizer](https://github.com/JohnBolger/chipotlemacros)
 - Downloaded a dataset with the full nutrition facts for Chipotle Mexican Grills in the United States from [Kaggle](https://www.kaggle.com/datasets/brandonqilin/chipotle-usa-menu-nutrition-dataset).
