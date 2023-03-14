@@ -1,6 +1,6 @@
 #  Project 1: [Sleeper Draft Analysis](https://github.com/JohnBolger/sleeper_draft_analysis)
 - Wrote a python script that retrieves fantasy football draft data from Sleeper's API, puts it in a pandas dataframe, merges it with with stats from the season, and exports the dataframe as a csv.
-- Connected data to Tableau and built an [interactive dashboard](https://public.tableau.com/app/profile/john.bolger/viz/Diggs/PickAnalysis).
+- Used the script to get data from my league's most recent draft and connected it to Tableau to build an [interactive dashboard](https://public.tableau.com/app/profile/john.bolger/viz/Diggs/PickAnalysis).
 
 ![](images/Draft_Analysis.png)
 
