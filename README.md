@@ -21,7 +21,7 @@
 ![](images/Cal_plot.PNG)
 - Imported data into a SQL database and used Azure Data Studio create a SQL notebook in which the data was queried to find interesting facts and answer interesting questions about the data. Some questions were "Which team gained the most ffmr in a single season?", "Which teams had the tough strength of schedule?", and "Which matchups had the highest combined ffmr?".
 
-![](images/hardest_season.PNG)
+![](images/hardest_seasons.PNG)
 
 # Project 3.5: [Fantasy Football Manager Rating built in Excel](https://github.com/JohnBolger/FantasyFootballELO)
 - I previously built my rating system in Excel utilizing VLOOKUPs and conditional formulas. Check out the full full spreedsheet [here](https://docs.google.com/spreadsheets/d/1E_rgryqYJCXCeMMF1Hy3kmoZCZJNyvGrfDCidTjGOC4/edit#gid=1467900381).
