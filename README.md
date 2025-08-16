@@ -23,7 +23,7 @@
 
 ![](images/hardest_seasons.PNG)
 
-# Project 4: [Fantasy Football Manager Rating](https://github.com/JohnBolger/fantasy-football-app)
+# Project 4: [Fantasy Football with Chemistry](https://github.com/JohnBolger/fantasy-football-app)
 
 - Developed a dynamic fantasy football team display using React and TypeScript, featuring interactive player cards and custom formation layouts
 - Integrated Sleeper.app API to fetch live roster data, combining real-time updates with a local player database for enhanced performance
