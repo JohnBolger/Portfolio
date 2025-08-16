@@ -23,5 +23,10 @@
 
 ![](images/hardest_seasons.PNG)
 
-# Project 3.5: [Fantasy Football Manager Rating built in Excel](https://github.com/JohnBolger/FantasyFootballELO)
-- I previously built my rating system in Excel utilizing VLOOKUPs and conditional formulas. Check out the full full spreedsheet [here](https://docs.google.com/spreadsheets/d/1E_rgryqYJCXCeMMF1Hy3kmoZCZJNyvGrfDCidTjGOC4/edit#gid=1467900381).
+# Project 4: [Fantasy Football Manager Rating](https://github.com/JohnBolger/fantasy-football-app)
+
+- Developed a dynamic fantasy football team display using React and TypeScript, featuring interactive player cards and custom formation layouts
+- Integrated Sleeper.app API to fetch live roster data, combining real-time updates with a local player database for enhanced performance
+
+
+![](images/chemistry_example.PNG)
