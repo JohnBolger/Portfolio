@@ -29,4 +29,4 @@
 - Integrated Sleeper.app API to fetch live roster data, combining real-time updates with a local player database for enhanced performance
 
 
-![](images/ChemistryExample.PNG)
+![](images/ChemistryExample.png)
